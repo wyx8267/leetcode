@@ -9,3 +9,4 @@
 - [14.最长公共前缀](https://github.com/wyx8267/leetcode/blob/master/notes/0014-Longest%20Common%20Prefix.md)
 - [20.有效的括号](https://github.com/wyx8267/leetcode/blob/master/notes/0020-Valid%20Parentheses.md)
 - [21.合并两个有序链表](https://github.com/wyx8267/leetcode/blob/master/notes/0021-Merge%20Two%20Sorted%20Lists.md)
+- [26.删除排序数组中的重复项](https://github.com/wyx8267/leetcode/blob/master/notes/0026-Remove%20Duplicates%20from%20Sorted%20Array.md)
