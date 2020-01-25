@@ -11,3 +11,4 @@
 - [21.合并两个有序链表](https://github.com/wyx8267/leetcode/blob/master/notes/0021-Merge%20Two%20Sorted%20Lists.md)
 - [26.删除排序数组中的重复项](https://github.com/wyx8267/leetcode/blob/master/notes/0026-Remove%20Duplicates%20from%20Sorted%20Array.md)
 - [27.移除元素](https://github.com/wyx8267/leetcode/blob/master/notes/0027-Remove%20Element.md)
+- [28.实现 strStr()](https://github.com/wyx8267/leetcode/blob/master/notes/0028-Implement%20strStr.md)
